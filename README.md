@@ -1,7 +1,7 @@
 ## Waleed Khan
 ## Introduction 👋
 
-Hello, my name is Waleed Khan, and I am a motivated programmer and data analyst with a passion for tech. I am currently working on my university and as well as personal projects.
+Hello, my name is Waleed Khan,  I am a motivated programmer and data analyst with a passion for tech. I am currently working on my university and as well as personal projects.
 
 🧠 I have a strong foundation in algorithms, data structures, and programming languages like Python, Java, and C++. I thrive on solving challenging problems and continuously learning new things in the ever-evolving tech world.
 
